@@ -10,3 +10,5 @@ The goal is to organize fundamental concepts such as:
 - long-term system maintainability
 
 This repository is part of my learning journey in software development and engineering.
+
+Thank you.
